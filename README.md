@@ -4,7 +4,12 @@ Replace APIs in prepared similar API list or replace APIs with the same return v
 
 The similar API groups:
 
-
+- RegExp.prototype.exec/RegExpprototype.test
+- RegExp.prototype[@@match] /RegExp.prototype.match
+- RegExp.prototype[@@matchAll ]/String.prototype.matchAll
+- RegExp.prototype[@@search]/String.prototype.search
+- RegExp.prototype[@@replace]/String.prototype.replace
+- RegExp.prototype[@@split]/String.prototype.split
 
 
 
